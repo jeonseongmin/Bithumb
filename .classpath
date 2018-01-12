@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/lombok-1.16.8.jar"/>
+	<classpathentry kind="lib" path="lib/json-20171018.jar" sourcepath="C:/Users/JEONSE~1/AppData/Local/Temp/.org.sf.feeling.decompiler1509058459092/source/json-20171018-sources-1509061696114.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
